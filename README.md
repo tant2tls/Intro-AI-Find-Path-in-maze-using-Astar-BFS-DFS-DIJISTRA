@@ -46,8 +46,8 @@ root:
 
 | Notebook | Language |
 |---|---|
-| `G6_TÌM_ĐƯỜNG_ĐI_TRONG_MÊ_CUNG.ipynb` | Vietnamese (the graded submission) |
-| `report.ipynb` | English translation — text only; every code cell is token-for-token identical |
+| `G6_TÌM_ĐƯỜNG_ĐI_TRONG_MÊ_CUNG.ipynb` | Vietnamese version|
+| `report.ipynb` | English version|
 
 ---
 
